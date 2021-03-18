@@ -1,0 +1,10 @@
+
+  <div id="description" slot="content" class="style-scope ytd-video-secondary-info-renderer"><yt-formatted-string class="content style-scope ytd-video-secondary-info-renderer" force-default-style="" split-lines="">Hangi programlama dilinde yazıldığı farketmeyen bir projenin Github'a nasıl gönderiliceğini anlattım. Umarım faydalı olmuştur. Arkadaşlar kanalıma abone olursanız memnun olurum.</yt-formatted-string></div>
+</div>
+<ytd-metadata-row-container-renderer class="sticky style-scope ytd-video-secondary-info-renderer" slot="sticky"><!--css-build:shady--><div id="always-shown" class="style-scope ytd-metadata-row-container-renderer"></div>
+<div id="collapsible" class="style-scope ytd-metadata-row-container-renderer" hidden=""></div>
+</ytd-metadata-row-container-renderer>
+<paper-button id="less" aria-expanded="true" noink="" class="style-scope ytd-expander" hidden="" role="button" tabindex="0" animated="" elevation="0" aria-disabled="false"><!--css-build:shady-->
+  <yt-formatted-string class="less-button style-scope ytd-video-secondary-info-renderer" slot="less-button" role="button">Daha az göster</yt-formatted-string>
+</paper-button>
+<paper-button id="more" aria-expanded="false" noink="" class="style-scope ytd-expander" role="button" tabindex="0" animated="" elevation="0" aria-disabled="false" hidden=""><!--css-build:shady-->
